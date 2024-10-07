@@ -1,0 +1,28 @@
+************* Module static_marker.marker
+marker.py:10:0: C0303: Trailing whitespace (trailing-whitespace)
+marker.py:11:35: C0303: Trailing whitespace (trailing-whitespace)
+marker.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+marker.py:152:57: C0303: Trailing whitespace (trailing-whitespace)
+marker.py:153:0: C0303: Trailing whitespace (trailing-whitespace)
+marker.py:173:0: C0303: Trailing whitespace (trailing-whitespace)
+marker.py:175:0: C0303: Trailing whitespace (trailing-whitespace)
+marker.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+marker.py:5:0: C0115: Missing class docstring (missing-class-docstring)
+marker.py:5:0: R0902: Too many instance attributes (11/7) (too-many-instance-attributes)
+marker.py:11:4: C0116: Missing function or method docstring (missing-function-docstring)
+marker.py:11:4: R0915: Too many statements (155/50) (too-many-statements)
+marker.py:176:4: C0116: Missing function or method docstring (missing-function-docstring)
+marker.py:12:8: W0201: Attribute 'marker_array_msg' defined outside __init__ (attribute-defined-outside-init)
+marker.py:14:8: W0201: Attribute 'ampel1_r' defined outside __init__ (attribute-defined-outside-init)
+marker.py:34:8: W0201: Attribute 'ampel1_g' defined outside __init__ (attribute-defined-outside-init)
+marker.py:54:8: W0201: Attribute 'ampel2' defined outside __init__ (attribute-defined-outside-init)
+marker.py:74:8: W0201: Attribute 'ampel3' defined outside __init__ (attribute-defined-outside-init)
+marker.py:94:8: W0201: Attribute 'ampel4' defined outside __init__ (attribute-defined-outside-init)
+marker.py:114:8: W0201: Attribute 'ampel5' defined outside __init__ (attribute-defined-outside-init)
+marker.py:134:8: W0201: Attribute 'ampel8' defined outside __init__ (attribute-defined-outside-init)
+marker.py:154:8: W0201: Attribute 'ampel9' defined outside __init__ (attribute-defined-outside-init)
+marker.py:179:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 8.67/10
+
